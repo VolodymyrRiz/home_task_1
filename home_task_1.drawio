@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-30T22:31:43.857Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="qpd-Ue-iH8nUc510qY6W" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-30T22:47:11.827Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="4tzgjFxE0DlvSv9OL03t" version="22.1.16" type="github">
   <diagram name="Страница — 1" id="HwZMOI3E_ZsHrhfsVW5a">
     <mxGraphModel dx="794" dy="412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -43,7 +43,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="h4rz5uWC_36sq37xX0iJ-13" value="parent" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="h4rz5uWC_36sq37xX0iJ-12">
-          <mxGeometry x="-1" relative="1" as="geometry" />
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="-30" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="h4rz5uWC_36sq37xX0iJ-14" value="child" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="h4rz5uWC_36sq37xX0iJ-12">
           <mxGeometry x="1" relative="1" as="geometry" />
